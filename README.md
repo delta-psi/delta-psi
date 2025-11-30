@@ -1,4 +1,4 @@
-- math, science, programming and coffee. 
+- Math, science, programming and coffee  
 - M.S. in Mathematics & B.S. in Behavioral & Cognitive Neuroscience
 - NixOS, btw
 <!---
