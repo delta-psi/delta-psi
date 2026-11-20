@@ -1,4 +1,4 @@
-- Math, science, programming and coffee  
+- Art, music, math, science, programming and coffee are the basis of my survival
 - M.S. in Mathematics & B.S. in Behavioral & Cognitive Neuroscience
 - NixOS, btw
 <!---
